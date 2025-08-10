@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# PyTorch and related libraries
+torch
+torchvision
+transformers
+datasets
